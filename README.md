@@ -5,13 +5,13 @@
 Mi nombre es Mauro Pandolfo, soy de la ciudad de Rosario, Argentina, tengo 27 años y me encanta programar 🤠🤠.
 Tengo conocimientos en las siguientes tecnologias:
 
-🔰 HTML.
-🔰 CSS.
-🔰 Bootsrap.
-🔰 Sass.
-🔰 Javascript.
-🔰 JQuery.
-🔰 Node.js.    
+🔰 HTML.  
+🔰 CSS.  
+🔰 Bootsrap.  
+🔰 Sass.  
+🔰 Javascript.  
+🔰 JQuery.  
+🔰 Node.js.      
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Actualmente me encuentro realizando el modulo de Backend del curso Full Stack de CoderHouse,
