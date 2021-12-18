@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola!!Bienvenido a mi perfil de GitHub.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Sobre mi:
 
-<!--
-**mauropandolfo/mauropandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Mauro Pandolfo, soy de la ciudad de Rosario, Argentina, tengo 27 años y me encanta programar 🤠🤠.
+Tengo conocimientos en las siguientes tecnologias:
 
-Here are some ideas to get you started:
+🔰 HTML
+🔰 CSS
+🔰 Bootsrap
+🔰 Sass
+🔰 Javascript.
+🔰 JQuery
+🔰 Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Actualmente me encuentro realizando el modulo de Backend del curso Full Stack de CoderHouse,
+en caso que quieras comunicarte conmigo podes hacerlo por los siguientes medios:
+
+🔰 Pandolfomauro@gmail.com
+🔰 https://www.linkedin.com/in/mauro-pandolfo-21b665206/
+
+¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+¶´´´´´¶´´´´´´¶´´¶¶¶¶´´¶¶´´¶´´´´´¶¶¶´´´´¶¶´´´´´¶
+¶´´¶¶¶¶´´¶¶´´¶´´¶¶¶¶´´¶¶´´¶´´¶¶´´¶´´¶¶´´¶´´¶¶¶¶
+¶´´´´´¶´´´´´´¶´´¶¶¶¶´´¶¶´´¶´´¶¶´´¶´´¶¶´´¶´´´´´¶
+¶¶¶¶´´¶´´¶¶´´¶´´¶¶¶¶´´¶¶´´¶´´¶¶´´¶´´¶¶´´¶¶¶¶´´¶
+¶´´´´´¶´´¶¶´´¶´´´´´¶´´´´´´¶´´´´´¶¶¶´´´´¶¶´´´´´¶
+¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
