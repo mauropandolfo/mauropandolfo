@@ -6,17 +6,11 @@ Mi nombre es Mauro Pandolfo, soy de la ciudad de Rosario, Argentina, tengo 27 a�
 Tengo conocimientos en las siguientes tecnologias:
 
 🔰 HTML.
-
 🔰 CSS.
-
 🔰 Bootsrap.
-
 🔰 Sass.
-
 🔰 Javascript.
-
 🔰 JQuery.
-
 🔰 Node.js.    
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
