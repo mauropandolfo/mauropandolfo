@@ -5,15 +5,23 @@
 My name is Mauro Pandolfo, I'm from the city of Rosario, Argentina, I'm 27 years old and I love programming 🤠🤠.
 I got some experience in the following technologies:
 
-🔰 HTML.  
-🔰 CSS.  
-🔰 Bootsrap.  
-🔰 Sass.  
-🔰 Javascript.  
+🔰 HTML.
+
+🔰 CSS.
+
+🔰 Bootsrap. 
+
+🔰 Sass.   
+
+🔰 Javascript.
+
 🔰 JQuery.  
-🔰 Node.js. 
-🔰 MongoDB. 
-🔰 Currently learning Python. 
+
+🔰 Node.js.     
+
+🔰 MongoDB.   
+
+🔰 Currently learning Python.  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # This year I start my university studies in Data Science and Artificial Intelligence, Amazing right?
