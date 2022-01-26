@@ -1,9 +1,9 @@
-# Hola!!Bienvenido a mi perfil de GitHub.
+# Hello! Welcome to my GitHub profile.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Sobre mi:
+## About me:
 
-Mi nombre es Mauro Pandolfo, soy de la ciudad de Rosario, Argentina, tengo 27 años y me encanta programar 🤠🤠.
-Tengo conocimientos en las siguientes tecnologias:
+My name is Mauro Pandolfo, I'm from the city of Rosario, Argentina, I'm 27 years old and I love programming 🤠🤠.
+I got some experience in the following technologies:
 
 🔰 HTML.  
 🔰 CSS.  
@@ -11,12 +11,16 @@ Tengo conocimientos en las siguientes tecnologias:
 🔰 Sass.  
 🔰 Javascript.  
 🔰 JQuery.  
-🔰 Node.js.      
-
+🔰 Node.js.
+🔰 MongoDB.
+🔰 Currently learning Python.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Actualmente me encuentro realizando el modulo de Backend del curso Full Stack de CoderHouse,
-en caso que quieras comunicarte conmigo podes hacerlo por los siguientes medios:  
 
-🔰 [Enviame un correo](Pandolfomauro@gmail.com)  
-🔰 [Mi perfil de LinkedIn](https://www.linkedin.com/in/mauro-pandolfo-21b665206/)  
+# This year I start my university studies in Data Science and Artificial Intelligence, Amazing right?
 
+I am currently doing the Backend module of the CoderHouse Full Stack course,
+If you want to contact me you can do it following these links:
+
+🔰 [Send Me an E-Mail](Pandolfomauro@gmail.com)  
+🔰 [My LinkedIn Profile](https://www.linkedin.com/in/mauro-pandolfo-21b665206/)  
+🔰 [My Brand-New Site](https://www.mauropandolfo.com.ar)
