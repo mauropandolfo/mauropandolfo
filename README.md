@@ -11,9 +11,9 @@ I got some experience in the following technologies:
 🔰 Sass.  
 🔰 Javascript.  
 🔰 JQuery.  
-🔰 Node.js.
-🔰 MongoDB.
-🔰 Currently learning Python.
+🔰 Node.js. 
+🔰 MongoDB. 
+🔰 Currently learning Python. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # This year I start my university studies in Data Science and Artificial Intelligence, Amazing right?
