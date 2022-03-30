@@ -1,7 +1,7 @@
 <h1 align="center">Hola!👋 Soy Mauro Pandolfo!</h1>
 <h3 align="center">Un desarrollador de Rosario, Argentina</h3>
 
-- 🌱 Soy estudiante de de "Data science e IA" en el "Instituto Politecnico de Córdoba" y estoy enfocado en mejorar mis habilidades en **Java, Python, JavaScript**
+- 🌱 Soy estudiante de de "Data science e IA" en el "Instituto Politecnico de Córdoba" y estoy enfocado en mejorar mis habilidades en **Java, Python y JavaScript**
 
 - 👨‍💻 Podes ver mis proyectos en [httpsÑ://www.mauropandolfo.com.ar](httpsÑ://www.mauropandolfo.com.ar)
 
