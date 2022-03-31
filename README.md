@@ -3,7 +3,7 @@
 
 - 🌱 Soy estudiante de de "Data science e IA" en el "Instituto Politecnico de Córdoba" y estoy enfocado en mejorar mis habilidades en **Java, Python y JavaScript**
 
-- 👨‍💻 Podes ver mis proyectos en [httpsÑ://www.mauropandolfo.com.ar](httpsÑ://www.mauropandolfo.com.ar)
+- 👨‍💻 Podes ver mis proyectos en [https://www.mauropandolfo.com.ar](https://www.mauropandolfo.com.ar)
 
 - 📫 Contáctame en **pandolfomauro@gmail.com**
 
